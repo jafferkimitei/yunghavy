@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about developing innovative solutio
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yunghavy/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=portfolio&logoColor=white)](https://yunghavy.com)
 
+
 ## 🌟 Highlighted Projects
 - **[Project 1](https://github.com/yunghavy/Complex-css-Animations):** Here's an example of a sophisticated CSS animation that I created. This animation showcases advanced CSS techniques such as keyframes, transforms, and transitions to create smooth and visually appealing effects. Whether it's animating elements for a website or creating interactive UI components, I enjoy pushing the boundaries of what's possible with CSS.
 - **[Project 2](https://github.com/yunghavy/NGO):** A website supporting an NGO focusing on women and children. This project aims to raise awareness and provide resources for empowering women and protecting children's rights.
