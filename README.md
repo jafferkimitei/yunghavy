@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about developing innovative solutio
 
 ## 📈 Visitor Count
 
-![Visitor Count](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fyunghavy%2Fyunghavy)
+![Visitor Count](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fyunghavy)
 
 
 ## 🔧 Technologies & Tools
