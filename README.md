@@ -3,6 +3,11 @@
 
 Welcome to my GitHub profile! I'm passionate about developing innovative solutions and contributing to the open-source community. Here's a glimpse into my world:
 
+## 📈 Visitor Count
+
+![Visitor Count](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fyunghavy%2Fyunghavy)
+
+
 ## 🔧 Technologies & Tools
 
 ### My Main Stacks
