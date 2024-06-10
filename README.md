@@ -1,7 +1,14 @@
-# Hi there, I'm Yung Havy👋
+<!-- Greet Line Comes Here -->
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FF7D29&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
+</p>
 
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-Welcome to my GitHub profile! I'm passionate about developing innovative solutions and contributing to the open-source community. Here's a glimpse into my world:
+Welcome to Yung Havy! I'm passionate about developing innovative solutions and contributing to the open-source community. Here's a glimpse into my world:
 
 
 ## 🔧 Technologies & Tools
@@ -36,6 +43,25 @@ Welcome to my GitHub profile! I'm passionate about developing innovative solutio
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunghavy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunghavy&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunghavy&theme=radical)
+
+## Github Graph
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!-- GitHub Contribution Section Here -->
+
+## 📈 GitHub Contribution Graph
+
+[![Chinmay Kaitade github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yunghavy&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/yunghavy/github-readme-activity-graph)
+
+<hr>
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yunghavy&theme=radical&no-bg=true&no-frame=true)
