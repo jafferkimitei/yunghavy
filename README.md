@@ -44,6 +44,8 @@ Welcome to Yung Havy! I'm passionate about developing innovative solutions and c
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunghavy&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunghavy&theme=radical)
 
+#
+![](./skele.webp)
 ## Github Graph
 <!-- Coloured Line -->
 <h3 align="center">
@@ -73,6 +75,7 @@ Welcome to Yung Havy! I'm passionate about developing innovative solutions and c
 - **Photographer and Cinematographer:** Capturing stunning visuals and creating cinematic experiences.
 - **Open Source Contributions:** Contributing to projects that align with my interests and skills.
 
+![](./giphy.webp)
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafferkimitei/)
