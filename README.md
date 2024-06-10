@@ -85,5 +85,6 @@ Welcome to Yung Havy! I'm passionate about developing innovative solutions and c
 - **[Project 2](https://github.com/yunghavy/NGO):** A website supporting an NGO focusing on women and children. This project aims to raise awareness and provide resources for empowering women and protecting children's rights.
 - **[Project 3](https://github.com/yunghavy/mechauto):** A platform for mechanics and car enthusiasts to connect. This project provides tools and resources for fixing cars, sharing knowledge, and building a community around automotive repair.
 
-![Thank You]
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yunghavy.yunghavy)
+
 ---
