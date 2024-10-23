@@ -77,9 +77,9 @@ Welcome to Yung Havy! I'm passionate about developing innovative solutions and c
 
 
 ## 🌟 Highlighted Projects
-- **[Modern Website Portfolio Design]([https://github.com/yunghavy/Complex-css-Animations](https://www.behance.net/gallery/210475779/Modern-Portfolio-Website)):** 
-- **[M-safiri Mobile Application Design]([https://github.com/yunghavy/NGO](https://www.behance.net/gallery/209427013/M-safiri-App)):** 
-- **[Sarenco Logistics Website]([https://github.com/yunghavy/mechauto](https://sarenco-inc.vercel.app/)):**
+- **[Modern Website Portfolio Design]((https://www.behance.net/gallery/210475779/Modern-Portfolio-Website)):** 
+- **[M-safiri Mobile Application Design]((https://www.behance.net/gallery/209427013/M-safiri-App)):** 
+- **[Sarenco Logistics Website]((https://sarenco-inc.vercel.app/)):**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yunghavy.yunghavy)
 
