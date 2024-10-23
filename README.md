@@ -66,7 +66,6 @@ Welcome to Yung Havy! I'm passionate about developing innovative solutions and c
 - **Web Development:** Building responsive and user-friendly web applications using the latest technologies.
 - **Data Cleaning and Visualization:** Organizing and visualizing data to extract meaningful insights.
 - **UI/UX Design:** Creating intuitive and engaging user interfaces with tools like Figma and Adobe XD.
-- **Photographer and Cinematographer:** Capturing stunning visuals and creating cinematic experiences.
 - **Open Source Contributions:** Contributing to projects that align with my interests and skills.
 
 ![](./giphy.webp)
@@ -78,9 +77,9 @@ Welcome to Yung Havy! I'm passionate about developing innovative solutions and c
 
 
 ## 🌟 Highlighted Projects
-- **[Project 1](https://github.com/yunghavy/Complex-css-Animations):** Here's an example of a sophisticated CSS animation that I created. This animation showcases advanced CSS techniques such as keyframes, transforms, and transitions to create smooth and visually appealing effects. Whether it's animating elements for a website or creating interactive UI components, I enjoy pushing the boundaries of what's possible with CSS.
-- **[Project 2](https://github.com/yunghavy/NGO):** A website supporting an NGO focusing on women and children. This project aims to raise awareness and provide resources for empowering women and protecting children's rights.
-- **[Project 3](https://github.com/yunghavy/mechauto):** A platform for mechanics and car enthusiasts to connect. This project provides tools and resources for fixing cars, sharing knowledge, and building a community around automotive repair.
+- **[Modern Website Portfolio Design]([https://github.com/yunghavy/Complex-css-Animations](https://www.behance.net/gallery/210475779/Modern-Portfolio-Website)):** 
+- **[M-safiri Mobile Application Design]([https://github.com/yunghavy/NGO](https://www.behance.net/gallery/209427013/M-safiri-App)):** 
+- **[Sarenco Logistics Website]([https://github.com/yunghavy/mechauto](https://sarenco-inc.vercel.app/)):**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yunghavy.yunghavy)
 
